@@ -9,7 +9,7 @@ Then we obtained 81 linearequations in 80 unknowns.
 Even if there exists a solution to this linear system, it maynot be the true solution of the formulated system.
 At last, we verified the solutionby the original 80 polynomials. 
 Totally, the attack costs 5 days with 8 GPU cards,and we finally found a true solution as well as a preimage to this Keccak instance.
-Here we give the code on CPU since it is easier to deploy and it is tested on ubuntu 16.04.
+Here we give the code on CPU since it is easier to deploy and it is tested on Ubuntu 16.04.
 ### Usage
 ```
 1. cd $KECCAK3R400_ROOT
